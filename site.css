@@ -1,0 +1,25 @@
+#fullscreen{
+  width: 1920px;
+  height: 1080px;
+  margin: auto;
+  margin-top: 30px;
+  border: 1px solid black;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+}
+
+.brand-background {
+  background-color: #19384C;
+}
+
+.brand-colour{
+  color: #1197A3; /*decimal RGB: 17 151 163*/
+}
+
+.center-text{
+  text-align: center;
+  margin-top: 50px;
+  size: 
+}
